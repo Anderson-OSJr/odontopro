@@ -4,7 +4,7 @@ import doctorImg from "@/public/doctor-hero.png";
 
 const Hero = () => {
   return (
-    <section className="bg-white">
+    <section className="bg-white pb-4 md:pb-0">
       <div className="container mx-auto px-4 pt-20 sm:px-6 lg:px-8">
         <main className="flex items-center justify-center">
           <article className="space-y-8 max-w-3xl flex flex-col justify-center">
